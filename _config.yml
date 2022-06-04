@@ -16,23 +16,23 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Europe/London
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: C R Grimwade                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: My Installation Notes   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://crgrimwade.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: crgrimwade             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -45,7 +45,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/crgrimwade       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
